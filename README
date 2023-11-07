@@ -23,6 +23,7 @@ GrapeVineT AI utilizes anonymized datasets that include:
 - School performance metrics and capacities
 - Geographic and demographic information
 - Historical placement data and outcomes
+- Data source from the Office of National Statistics UK
 
 > Note: All data used within this project complies with GDPR and other relevant data protection regulations.
 
@@ -34,6 +35,7 @@ GrapeVineT AI utilizes anonymized datasets that include:
 - Docker: For containerization and easy deployment.
 - GitHub Actions: For CI/CD pipelines.
 - Jupyter Notebooks: For exploratory data analysis and prototyping.
+- Azure Data Engineering Tools.
 
 ## Installation
 
